@@ -24,3 +24,5 @@ print( a != b) # not equle
 
 print( a is b)
 print ( a is not b)
+
+# int is the number mean . all are string mna letter .thats why input time write int.
